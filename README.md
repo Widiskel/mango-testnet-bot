@@ -187,10 +187,9 @@ and copy the Input Data as HEX. Or you can just copy paste from wallet confirmat
 Feel free to fork and contribute adding more feature thanks.
 
 ## SUPPORT
+**TGE IS COMING**
+want to support me for creating another bot ? star my repo or buy me a coffee on
+**
+BYBIT UID : 140173364
 
-want to support me for creating another bot ?
-**star** my repo or buy me a coffee on
-
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
-
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
+BINANCE UID : 39357434**
